@@ -1,0 +1,28 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "team profile generator ",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Rickhern12345/team-profile-generator.git"
+    },
+    "author": "ricardo hernandez",
+    "bugs": {
+      "url": "https://github.com/Rickhern12345/team-profile-generator.git/issues"
+    },
+    "homepage": "https://github.com/Rickhern12345/team-profile-generator.git#readme",
+    "devDependencies": {
+      "jest": "^26.0.1"
+    },
+    "dependencies": {
+      "inquirer": "^7.1.0"
+    }
+  }
+  
